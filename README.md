@@ -1,7 +1,7 @@
-the game runs using a "while true; do" loop to show what can be done using a simple loop.
-it also showcases a large "case" statement.
-the game is simple you type in the sector you want and it shows a number relative to how many bombs are touching it or bomb "b".
-i did not add any consequances for actually finding a bomb or "mine" i should say since its called mines lol.
-i saw this challenge on a bash game website i cant remember where. 
-it challenged you to use a simple template and then program the mines into the template.
-i did not use there template i just made my own but the idea for the whole thing started from there.
+The Game Runs Using A "while true; do" Loop to show what can be done using a simple loop.
+It Also showcases a large "case" statement.
+The Game is simple, you type in the sector you want and it shows a number, relative to how many bombs are touching it, or Bomb "b".
+I did not add any consequances for actually finding a Bomb, or "Mine", I should say since its called Mines lol.
+I saw this challenge on a bash game website. I cant remember where. 
+It challenged you to use a simple template and then program the Mines into the template.
+I did not use there template i just made my own, but the idea for the whole thing started from there.
