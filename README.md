@@ -4,4 +4,4 @@ The Game is simple, you type in the sector you want and it shows a number, relat
 I did not add any consequances for actually finding a Bomb, or "Mine", I should say since its called Mines lol.
 I saw this challenge on a bash game website. I cant remember where. 
 It challenged you to use a simple template and then program the Mines into the template.
-I did not use there template i just made my own, but the idea for the whole thing started from there.
+I did not use there template I just made my own, but the idea for the whole thing started from there.
