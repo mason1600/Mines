@@ -6,10 +6,10 @@ The Game Is Simple, You Type In The Sector You Want And It Shows A Number, Relat
 
 I Did Not Add Any Consequances For Actually Finding A Bomb, or "Mine", I Should Say Since Its Called Mines LoL.
 
-I saw this challenge on a bash game website. I cant remember where. 
+I Saw This Challenge On A Bash Game Website. I Cant Remember Where. 
 
-It challenged you to use a simple template and then program the Mines into the template.
+It Challenged You To Use A Simple Template And Then Program The Mines Into The Template.
 
-I did not use there template I just made my own, but the idea for the whole thing started from there.
+I Did Not Use There Template I Just Made My Own, But The Idea For The Whole Thing Started From There.
 
-There are currently THREE LEVELS that are called at random to mix it up i will add more levels when im not adding levels to my other game haha lol.
+There Are Currently THREE LEVELS That Are Called At Random To Mix It Up I Will Add More Levels When Im Not Adding Levels To My Other Game Haha Lol.
