@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# The script Mines.sh was created by mason1600 on GitHub released with the license GNU General Public License v3.0
 a1=(b s 0 1 2 3 4 5)
 b1=(b s 0 1 2 3 4 5)
 c1=(b s 0 1 2 3 4 5)
