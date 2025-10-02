@@ -12,4 +12,4 @@ It Challenged You To Use A Simple Template And Then Program The Mines Into The T
 
 I Did Not Use There Template I Just Made My Own, But The Idea For The Whole Thing Started From There.
 
-There Are Currently THREE LEVELS That Are Called At Random To Mix It Up I Will Add More Levels When Im Not Adding Levels To My Other Game Haha Lol.
+There Are Currently THREE LEVELS That Are Called At Random To Mix It Up.
