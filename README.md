@@ -13,3 +13,4 @@ It Challenged You To Use A Simple Template And Then Program The Mines Into The T
 I Did Not Use There Template I Just Made My Own, But The Idea For The Whole Thing Started From There.
 
 There Are Currently THREE LEVELS That Are Called At Random To Mix It Up.
+<img width="1920" height="1080" alt="Screenshot from 2025-10-02 12-43-04" src="https://github.com/user-attachments/assets/b9db5d2d-e095-498f-89e7-6abf1b2bbdae" />
